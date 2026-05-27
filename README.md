@@ -49,7 +49,7 @@ Publish the website in the LocalHost.
                 width: 500px;
                 height: 600px;
                 padding: 20px;
-                border: 3px solid blue;
+                border: 3px solid black;
                 background-image: url("background.png");
                 background-size: cover;
                 background-position: center;
@@ -57,18 +57,18 @@ Publish the website in the LocalHost.
                 box-shadow: 0 0 0 3px;
             }
             h1{
-                color: blue;
+                color: black;
                 font-size: 40px;
                 margin-bottom: 10px;
             }
             .line{
                 height: 2px;
-                background: blue;
+                background: black;
                 margin-bottom: 20px;
             }
             .content{
                 text-align: justify;
-                color: black;
+                color: brown;
                 line-height: 1.7;
                 width: 500px;
             }
@@ -108,7 +108,7 @@ Publish the website in the LocalHost.
                 padding: 0;
                 font-size: 15px;
                 font-weight: 550px;
-                color: blue;
+                color: black;
                 line-height: 1.2;
             }
             .author p{
@@ -152,8 +152,7 @@ Publish the website in the LocalHost.
 
         </div>
         <div class="quote">
-            "Design is not just what it looks like and feels like —
-             design is how it works on the web."
+            "Design is the bridge between imagination and user experience."
         </div>
         <div class="author">
             <img src="photo.jpeg">
